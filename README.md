@@ -1,5 +1,5 @@
 ## tk_sky  
-> 20岁，事学生（  博客：[tk.mcyou.cc](tk.mcyou.cc)  
+> 20岁，事学生（  博客：[tk.mcyou.cc](http://tk.mcyou.cc)  
 
 ## Github Status
 <p align="center">
