@@ -1,5 +1,5 @@
 ## tk_sky  
-> 20岁，事学生（  博客：[tk.mcyou.cc](http://tk.mcyou.cc)  
+> 🐧 21岁，事学生（  博客：[mcyou.cc](http://mcyou.cc)  
 
 ## Github Status
 <p align="center">
@@ -14,12 +14,7 @@
    <a href="https://https://github.com/tksky1/CubeUniverse"> 
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tksky1&repo=CubeUniverse"/>
   </a>  
-   <a href="https://https://github.com/tksky1/BBSIndex"> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tksky1&repo=BBSIndex"/>
-  </a>  
-  <a href="https://https://github.com/tksky1/MCGenshin"> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tksky1&repo=MCGenshin"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tksky1&range=all_time&layout=compact"/>
   </a>  
 </p>
-
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
