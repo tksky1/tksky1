@@ -26,6 +26,11 @@
           <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tksky1&repo=CubeUniverse"/>
         </a>
       </p>
+      <p align="center">
+        <a href="https://github.com/mcyouyou/unicore"> 
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mcyouyou&repo=unicore"/>
+        </a>
+      </p>
     </td>
     <td>
       <p align="center">
