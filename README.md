@@ -1,7 +1,7 @@
-## tk_sky  
-> 🐧 21岁，事学生（  博客：[mcyou.cc](http://mcyou.cc)  
 
-## Github Status
+## tk_sky  
+> 🐧 21岁，事学生（  博客：[mcyou.cc](http://mcyou.cc)
+## Github Status ![](https://komarev.com/ghpvc/?username=tksky1)
 <table>
   <tr>
     <td>
